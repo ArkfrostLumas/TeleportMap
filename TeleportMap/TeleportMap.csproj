@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.0.1</Version>
+    <!-- Manifest fields (see https://github.com/goatcorp/DalamudPackager/blob/827d88dc/DalamudPackager/DalamudPackager.cs#L420) -->
+    <Author>Arkfrost</Author>
+    <Name>Teleport Map</Name>
+    <Punchline>A visual map overlay with clickable teleport locations.</Punchline>
+    <Description>Tired of searching through lists of text to teleport? 
+    Are you the visual type as well who likes maps?
+    TeleportMap is a grid based map overlay, that shows you a network of teleport locations, for those who want to go somewhere in two keypresses
+    Open the overlay with /tpmap</Description>
+    <RepoUrl>https://github.com/ArkfrostLumas/TeleportMap</RepoUrl>
+    <Tags>plugin;goats;arkfrost;map;teleport;qol</Tags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\Data\goat.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\Data\map.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+  </ItemGroup>
+</Project>
