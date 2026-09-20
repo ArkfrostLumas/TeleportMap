@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "Arkfrost",
+    "Name": "TeleportMap",
+    "InternalName": "TeleportMap",
+    "AssemblyVersion": "1.0",
+    "Punchline": "A visual map overlay with clickable teleport locations.",
+    "Description": "Tired of searching through lists of text to teleport? 
+    Are you the visual type as well who likes maps?
+    TeleportMap is a grid based map overlay, that shows you a network of teleport locations, for those who want to go somewhere in two keypresses
+    Open the overlay with /tpmap
+    Pressing Esc closes the map at any time.",
+    "RepoUrl": "https://github.com/ArkfrostLumas/TeleportMap.git",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LastUpdate": 0,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/v1.0.0.0/TeleportMap.zip",
+    "DownloadLinkUpdate": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/v1.0.0.0/TeleportMap.zip",
+    "DownloadLinkTesting": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/v1.0.0.0/TeleportMap.zip"
+  }
+]
