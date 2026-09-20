@@ -16,8 +16,8 @@
     "LastUpdate": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/ArkfrostLumas/TeleportMap/master/repo.json",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ArkfrostLumas/TeleportMap/master/repo.json",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/ArkfrostLumas/TeleportMap/master/repo.json"
+    "DownloadLinkInstall": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/Test/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/Test/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/Test/latest.zip"
   }
 ]
