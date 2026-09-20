@@ -3,7 +3,7 @@
     "Author": "Arkfrost",
     "Name": "TeleportMap",
     "InternalName": "TeleportMap",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Punchline": "A visual map overlay with clickable teleport locations.",
     "Description": "Tired of searching through lists of text to teleport? 
     Are you the visual type as well who likes maps?
@@ -16,8 +16,8 @@
     "LastUpdate": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/Test/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/Test/latest.zip",
-    "DownloadLinkTesting": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/Test/latest.zip"
+    "DownloadLinkInstall": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ArkfrostLumas/TeleportMap/releases/download/1.0.1.0/latest.zip"
   }
 ]
